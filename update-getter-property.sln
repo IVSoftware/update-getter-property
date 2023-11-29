@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "update-getter-property", "update-getter-property\update-getter-property.csproj", "{E200E76E-3278-4143-9931-1A0FBAC4488C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E200E76E-3278-4143-9931-1A0FBAC4488C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E200E76E-3278-4143-9931-1A0FBAC4488C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E200E76E-3278-4143-9931-1A0FBAC4488C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E200E76E-3278-4143-9931-1A0FBAC4488C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948C76C7-5AA3-4041-8681-E3D196BFF488}
+	EndGlobalSection
+EndGlobal
