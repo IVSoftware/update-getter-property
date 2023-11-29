@@ -14,9 +14,6 @@ using System.Windows.Threading;
 
 namespace update_getter_property
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -43,8 +40,8 @@ namespace update_getter_property
             _timer.Start();
         }
 
-        private TestObject test1;
-        public TestObject Test1
+        private TestObject? test1;
+        public TestObject? Test1
         {
             get
             {
